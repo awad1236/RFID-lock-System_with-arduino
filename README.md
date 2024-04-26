@@ -13,5 +13,5 @@
     <li>Battery 9v</li>
 </ul>
 <li><h1>how does it work : </h1></li>
-<p>First, you place your card over the RFID module. After that, the module reads the card’s ID if it's the right card thr door open</p>
+<p>First, you place your card over the RFID module. After that, the module reads the card’s ID if it's the right card the door open</p>
 </ul>
