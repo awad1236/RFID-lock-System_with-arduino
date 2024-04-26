@@ -11,3 +11,5 @@ this is smart lock with arduino nano
     <li>I2C module</li>
     <li>Battery 9v</li>
 </ul>
+<h1>how does it work : </h1>
+<p>First, you place your card over the RFID module. After that, the module reads the card’s ID if it's the right card thr door open</p>
