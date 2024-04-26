@@ -1,5 +1,5 @@
 # smart-lock-with-arduino
-this is smart lock with arduino nano 
+<p></p>
 <h1>componats : </h1>
 <ul>
     <li>arduino nano</li>
