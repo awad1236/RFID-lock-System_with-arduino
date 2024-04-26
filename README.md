@@ -1,7 +1,7 @@
 # smart-lock-with-arduino
 <p></p>
 <ul>
-<li><h1>componats : </h1></li>
+<li><h1>components : </h1></li>
 <ul>
     <li>arduino nano</li>
     <li>RFID module</li>
