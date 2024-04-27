@@ -11,6 +11,7 @@
     <li>LCD screen</li>
     <li>I2C module</li>
     <li>Battery 9v</li>
+        <li> kdjd</li>
 </ul>
 <li><h1>how does it work : </h1></li>
 <p>First, you place your card over the RFID module. After that, the module reads the card’s ID if it's the right card the door open</p>
