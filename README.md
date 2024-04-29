@@ -15,8 +15,8 @@
 <li><h2>how does it work : </h2></li>
 <p>First, you place your card over the RFID module. After that, the module reads the card’s ID if it's the right card the door open</p>
 </ul>
-       <ul> <li><h2>Initial form : </h2></li></ul>
-       <p>vedio link : (https://youtu.be/HVh8gJuF7fs)</p>
+  <ul> <li><h2>Initial form : </h2></li></ul>
+    <p>vedio link : (https://youtu.be/HVh8gJuF7fs)</p>
        
      
 
