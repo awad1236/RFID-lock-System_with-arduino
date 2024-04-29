@@ -16,5 +16,5 @@
 <p>First, you place your card over the RFID module. After that, the module reads the card’s ID if it's the right card the door open</p>
 </ul>
        <ul> <li><h2>Initial form</h2></li></ul>
-        ![](https://github.com/tasbeehismail/LaserWar-Game/blob/main/DemoLaserWarGame.gif)
+        ![](https://github.com/awad1236/RFID-lock-System_with-arduino/blob/d14a7c44d22f8888b99d6cfaa2a91af3d5467f45/intial%20form)
 
