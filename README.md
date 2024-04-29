@@ -16,4 +16,5 @@
 <p>First, you place your card over the RFID module. After that, the module reads the card’s ID if it's the right card the door open</p>
 </ul>
        <ul> <li><h2>Initial form</h2></li></ul>
-video width="630" height="300" src="https://drive.google.com/file/d/1mOtEk81oYEhyO4-5D3NCFvKe_Su9v8cJ/view?usp=drive_link"></video>
+        ![](https://github.com/tasbeehismail/LaserWar-Game/blob/main/DemoLaserWarGame.gif)
+
