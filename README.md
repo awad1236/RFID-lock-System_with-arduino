@@ -1,4 +1,4 @@
-# RFID-lock-System_with-arduino
+# RFID-lock-System_with-arduino 
 <p></p>
 <ul>
 <li><h2>components : </h2></li>
@@ -12,6 +12,7 @@
     <li>I2C module</li>
     <li>Battery 9v</li>
 </ul>
+        <hr/>
 <li><h2>how does it work : </h2></li>
 <p>
  <ul>
@@ -26,6 +27,7 @@ To bolster security, an additional feature has been integrated into the system. 
 </p>
 </ul>
  <ul>
+     <hr/>
        <li><h2>Final form : </h2></li> 
      <p>vedio link : https://youtu.be/3Nf48kX4Zkw?si=AvTFv-3GKPlzDj7f </p>
  </ul>
