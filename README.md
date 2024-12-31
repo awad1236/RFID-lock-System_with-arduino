@@ -28,9 +28,7 @@ To bolster security, an additional feature has been integrated into the system. 
 </ul>
  <ul>
      <hr/>
-       <li><h2>Final form : </h2></li> 
-       <p>vedio link :  <a href="https://youtu.be/3Nf48kX4Zkw?si=AvTFv-3GKPlzDj7f" style="text-decoration: none;">Youtube</a> </p>
- </ul>
+
   
     
        
