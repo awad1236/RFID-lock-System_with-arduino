@@ -9,7 +9,7 @@
 #define SS_PIN 10
 #define RST_PIN 9
 const String UID = "73 6B 31 BE";
-const String password = "1234";
+const String password = "6704";
 byte lock = 1;
 
 Servo servo;
